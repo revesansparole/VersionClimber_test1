@@ -3,5 +3,5 @@
 
 
 def main():
-    print "a"
-    return "a"
+    print "b"
+    return "b"
