@@ -1,0 +1,46 @@
+{
+    "./.coveragerc": [], 
+    "./.gitignore": [
+        "+K/4XGP2Peb5jWR7nzmpli9QQT/NXtwbXHyE3BnTHOEAdwTiRpmD0k++rjO/416VXZCr7l+3j3X8YUhN+Ku0MA=="
+    ], 
+    "./AUTHORS.rst": [], 
+    "./CONTRIBUTING.rst": [], 
+    "./HISTORY.rst": [], 
+    "./LICENSE": [
+        "K+/cXPOoUd3kCV74oh3eAd4jEM1Zl5ycOadeYhk++UgVDTAptzaSeEuVaeT1wD8qp3mxw2UXkNVnXY9uD0bEtg=="
+    ], 
+    "./MANIFEST.in": [
+        "68xb80xnCuwiJiFFi7EqNpTciZvvEP0Qf7as6Cf85I3B0c9+6A33Q9moDX+cDIOPye6ghsIa9oi2a6ee29h6zA=="
+    ], 
+    "./README.rst": [
+        "NpInImcdK7HQFLVdzLlDEZbA9uAEZaKM6lTCUCfQi5aOf93nTfnCh9DJp9Dr0ZWsxXLXTQrH3g+rbgh7kRECnA=="
+    ], 
+    "./doc/authors.rst": [], 
+    "./doc/contributing.rst": [], 
+    "./doc/history.rst": [], 
+    "./doc/index.rst": [], 
+    "./doc/installation.rst": [], 
+    "./doc/readme.rst": [], 
+    "./doc/usage.rst": [], 
+    "./dvlpt_requirements.txt": [
+        "AHkzNmO/PAhd7qdoqulrJA+5es0952Vofo83jWkrB9MZwoFPuVceD5ZKFHMSEdbpO+7edmGjHk3D3BXcyZs0Hw=="
+    ], 
+    "./requirements.txt": [
+        "vmiIOMqGhuXJBom/KrWFzvETfJmbSMcLkvZ6XDTcFWl7XRHJgu1tcb4eHn97TgcziEqpfD96M5qO0DV3z3S+CQ=="
+    ], 
+    "./setup.cfg": [
+        "5XKtcGF4Ys+iMAZNT8NGLEA0W5THtn8de1Yt++IZpZCLedMN33rl2xyt2/cHgVCiU5mM8oX6hruZby6uxLLEoQ=="
+    ], 
+    "./setup.py": [
+        "IOOGlLm8FxzoI4QptJlN/rAiJ+6YDpPME7nY/I8utB7FCQvzRaMfSD1I8YyRUmDLnmZLB1joV99lJYqIoE95Pw==", 
+        "6tA9s9cbDHz4mx0PGt+gMLM9HamuOYqFGjwc7LYZcM72XjiUaG0A7g6hNS+gy8cS0FyZDnf46GLNwx0mNZUs7Q=="
+    ], 
+    "./src/VersionClimber_test1/__init__.py": [
+        "bXi4YRtInDLkaTvGi4V/ZIZpKXGCIgIw/Qm7wX5YZ+tM5kkkAAGCzzuDhxJDzcpoWKBE1UxDj7mT+40YH1DZQA==", 
+        "fIn+GWAvhWfY/9NV/Sw6VXI4UIvx1OTgGxXQ1U5+9JFQ4vhuETzkaQvz8W4M9rMDYlL0vAeRmP2p2DyMgcvb9A=="
+    ], 
+    "./src/VersionClimber_test1/version.py": [
+        "9u2W46jEMEMq3ZJFhNBSDLcfV8R73vM1FPWlZz2LsxyOwW1/0fpDM16Yxig6tFhfdhNxz+Qw8gX0btUZqB898w=="
+    ], 
+    "./test/__init__.py": []
+}
