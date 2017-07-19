@@ -1,13 +1,14 @@
-=======
 Credits
 =======
 
 Development Lead
 ----------------
 
+.. {# pkglts, doc
 
-* base.author_name <base.author_email>
+* moi, <moi@email.com>
 
+.. #}
 
 Contributors
 ------------
