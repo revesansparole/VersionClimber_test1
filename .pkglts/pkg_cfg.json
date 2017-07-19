@@ -1,40 +1,50 @@
 {
-    "_pkglts": {
-        "auto_install": true, 
-        "install_front_end": "stdout", 
-        "use_prompts": false
-    }, 
-    "base": {
-        "namespace": null, 
-        "owner": "moi", 
-        "pkgname": "VersionClimber_test1", 
-        "url": null
-    }, 
-    "coverage": {}, 
-    "doc": {
-        "description": "belle petite description", 
-        "keywords": []
-    }, 
-    "github": {
-        "project": "{{key, base.pkgname}}"
-    }, 
-    "license": {
-        "name": "cecill-c", 
-        "organization": "organization", 
-        "project": "{{key, base.pkgname}}", 
-        "year": 2015
-    }, 
-    "pysetup": {
-        "author_email": "moi@email.com", 
-        "author_name": "{{key, base.owner}}", 
-        "intended_versions": [
-            "27"
-        ]
-    }, 
-    "test": {}, 
-    "version": {
-        "major": 0, 
-        "minor": 1, 
-        "post": 0
-    }
+  "_pkglts": {
+    "auto_install": true,
+    "install_front_end": "stdout",
+    "use_prompts": false,
+    "version": 6
+  },
+  "base": {
+    "authors": [
+      [
+        "moi",
+        "moi@email.com"
+      ]
+    ],
+    "namespace": null,
+    "namespace_method": "pkg_util",
+    "pkgname": "VersionClimber_test1",
+    "url": null
+  },
+  "coverage": {},
+  "doc": {
+    "description": "belle petite description",
+    "keywords": []
+  },
+  "github": {
+    "owner": "{{ base.authors[0][0] }}",
+    "project": "{{ base.pkgname }}",
+    "url": "https://github.com/{{ github.owner }}/{{ github.project }}"
+  },
+  "license": {
+    "name": "cecill-c",
+    "organization": "organization",
+    "project": "{{ base.pkgname }}",
+    "year": 2015
+  },
+  "pysetup": {
+    "intended_versions": [
+      "27"
+    ],
+    "require": []
+  },
+  "test": {
+    "suite_name": "pytest"
+  },
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "post": 0
+  }
 }

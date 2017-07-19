@@ -23,7 +23,7 @@ Contribute
 
 Fork this project on github_
 
-.. _github: https://github.com/github.user/VersionClimber_test1
+.. _github: https://github.com/moi/VersionClimber_test1
 
 
 
